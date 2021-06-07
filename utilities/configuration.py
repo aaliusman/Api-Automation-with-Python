@@ -18,7 +18,7 @@ connect_config = {
 
 
 def get_password():
-    return "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"
+    return "g*"
 
 
 def connect_db():
